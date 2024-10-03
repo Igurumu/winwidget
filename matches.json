@@ -1,31 +1,21 @@
 [
   {
-    "Team1": "TEAM LIQUID",
-    "Team2": "LNG ESPORTS",
-    "PeriodName": "1 карта",
-    "Total": "25.5",
-    "OddsTeam1": "2.85",
-    "OddsTeam2": "1.30",
-    "OddsTeam1Second": "1.75",
-    "OddsTeam2Second": "1.90"
-  },
-  {
     "Team1": "HANWHA LIFE ESPORTS",
     "Team2": "PSG TALON",
     "PeriodName": "1 карта",
     "Total": "25.5",
-    "OddsTeam1": "1.11",
-    "OddsTeam2": "5.56",
-    "OddsTeam1Second": "1.78",
-    "OddsTeam2Second": "1.93"
+    "OddsTeam1": "-",
+    "OddsTeam2": "7.00",
+    "OddsTeam1Second": "1.81",
+    "OddsTeam2Second": "1.83"
   },
   {
     "Team1": "FLYQUEST",
     "Team2": "GAM ESPORTS",
     "PeriodName": "1 карта",
     "Total": "26.5",
-    "OddsTeam1": "1.39",
-    "OddsTeam2": "2.78",
+    "OddsTeam1": "1.41",
+    "OddsTeam2": "2.70",
     "OddsTeam1Second": "1.87",
     "OddsTeam2Second": "1.83"
   },
