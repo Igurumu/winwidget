@@ -4,8 +4,8 @@
     "Team2": "FLYQUEST",
     "PeriodName": null,
     "Total": "N/A",
-    "OddsTeam1": "-",
-    "OddsTeam2": "14.0",
+    "OddsTeam1": "N/A",
+    "OddsTeam2": "N/A",
     "OddsTeam1Second": "N/A",
     "OddsTeam2Second": "N/A"
   },
@@ -13,11 +13,11 @@
     "Team1": "FNATIC",
     "Team2": "GAM ESPORTS",
     "PeriodName": null,
-    "Total": "26.5",
+    "Total": "27.5",
     "OddsTeam1": "1.28",
     "OddsTeam2": "3.33",
-    "OddsTeam1Second": "1.94",
-    "OddsTeam2Second": "1.77"
+    "OddsTeam1Second": "1.80",
+    "OddsTeam2Second": "1.91"
   },
   {
     "Team1": "PSG TALON",
