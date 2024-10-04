@@ -2,7 +2,7 @@
   {
     "Team1": "GEN.G ESPORTS",
     "Team2": "TOP",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "26.5",
     "OddsTeam1": "1.43",
     "OddsTeam2": "2.63",
@@ -12,7 +12,7 @@
   {
     "Team1": "G2 ESPORTS",
     "Team2": "HANWHA LIFE",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "27.5",
     "OddsTeam1": "3.13",
     "OddsTeam2": "1.32",
@@ -22,7 +22,7 @@
   {
     "Team1": "TEAM WEIBO",
     "Team2": "TEAM LIQUID",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "25.5",
     "OddsTeam1": "N/A",
     "OddsTeam2": "N/A",
@@ -32,7 +32,7 @@
   {
     "Team1": "T1",
     "Team2": "PAIN GAMING",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "25.5",
     "OddsTeam1": "1.06",
     "OddsTeam2": "7.14",
@@ -42,7 +42,7 @@
   {
     "Team1": "DPLUS",
     "Team2": "FLYQUEST",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "24.5",
     "OddsTeam1": "1.28",
     "OddsTeam2": "3.33",
@@ -52,7 +52,7 @@
   {
     "Team1": "FNATIC",
     "Team2": "GAM ESPORTS",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "26.5",
     "OddsTeam1": "1.32",
     "OddsTeam2": "3.13",
@@ -62,7 +62,7 @@
   {
     "Team1": "PSG TALON",
     "Team2": "MAD LIONS",
-    "PeriodName": "1 карта",
+    "PeriodName": null,
     "Total": "26.5",
     "OddsTeam1": "1.96",
     "OddsTeam2": "1.75",
