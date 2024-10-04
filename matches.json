@@ -1,32 +1,72 @@
 [
   {
-    "Team1": "HANWHA LIFE ESPORTS",
-    "Team2": "PSG TALON",
+    "Team1": "BILIBILI GAMING",
+    "Team2": "LNG ESPORTS",
     "PeriodName": "1 карта",
-    "Total": "22.5",
-    "OddsTeam1": "-",
-    "OddsTeam2": "7.00",
-    "OddsTeam1Second": "1.86",
-    "OddsTeam2Second": "1.78"
+    "Total": "25.5",
+    "OddsTeam1": "1.32",
+    "OddsTeam2": "3.13",
+    "OddsTeam1Second": "1.85",
+    "OddsTeam2Second": "1.85"
   },
   {
-    "Team1": "FLYQUEST",
-    "Team2": "GAM ESPORTS",
+    "Team1": "GEN.G ESPORTS",
+    "Team2": "TOP",
     "PeriodName": "1 карта",
-    "Total": "26.5",
-    "OddsTeam1": "1.41",
-    "OddsTeam2": "2.70",
-    "OddsTeam1Second": "1.87",
+    "Total": "25.5",
+    "OddsTeam1": "1.43",
+    "OddsTeam2": "2.63",
+    "OddsTeam1Second": "1.88",
     "OddsTeam2Second": "1.83"
   },
   {
     "Team1": "G2 ESPORTS",
-    "Team2": "PAIN GAMING",
+    "Team2": "HANWHA LIFE",
     "PeriodName": "1 карта",
     "Total": "27.5",
-    "OddsTeam1": "1.18",
-    "OddsTeam2": "4.35",
-    "OddsTeam1Second": "1.92",
-    "OddsTeam2Second": "1.79"
+    "OddsTeam1": "3.33",
+    "OddsTeam2": "1.28",
+    "OddsTeam1Second": "1.78",
+    "OddsTeam2Second": "1.93"
+  },
+  {
+    "Team1": "TEAM WEIBO",
+    "Team2": "TEAM LIQUID",
+    "PeriodName": "1 карта",
+    "Total": "25.5",
+    "OddsTeam1": "N/A",
+    "OddsTeam2": "N/A",
+    "OddsTeam1Second": "1.87",
+    "OddsTeam2Second": "1.84"
+  },
+  {
+    "Team1": "DPLUS",
+    "Team2": "FLYQUEST",
+    "PeriodName": "1 карта",
+    "Total": "24.5",
+    "OddsTeam1": "1.28",
+    "OddsTeam2": "3.33",
+    "OddsTeam1Second": "1.89",
+    "OddsTeam2Second": "1.81"
+  },
+  {
+    "Team1": "FNATIC",
+    "Team2": "GAM ESPORTS",
+    "PeriodName": "1 карта",
+    "Total": "26.5",
+    "OddsTeam1": "1.35",
+    "OddsTeam2": "2.94",
+    "OddsTeam1Second": "1.86",
+    "OddsTeam2Second": "1.85"
+  },
+  {
+    "Team1": "PSG TALON",
+    "Team2": "MAD LIONS",
+    "PeriodName": "1 карта",
+    "Total": "26.5",
+    "OddsTeam1": "1.96",
+    "OddsTeam2": "1.75",
+    "OddsTeam1Second": "1.83",
+    "OddsTeam2Second": "1.87"
   }
 ]
