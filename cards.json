@@ -3,22 +3,22 @@
     "IsOnline": true,
     "Team1Name": "HANWHA LIFE",
     "Team2Name": "GEN.G ESPORTS",
-    "Team1WinOdds": "2.70",
-    "Team2WinOdds": "1.35",
-    "Team1MapWinOdds": "2.40",
-    "Team2MapWinOdds": "1.45",
+    "Team1WinOdds": "3.75",
+    "Team2WinOdds": "1.15",
+    "Team1MapWinOdds": "5.00",
+    "Team2MapWinOdds": "1.05",
     "Team1MapKillTotalOdds": null,
     "Team2MapKillTotalOdds": null,
     "TotalMapKillOdds": null,
     "ActiveGameInfo": {
-      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 16:10",
+      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 22:13",
       "BestOf": "Best of 3",
       "Team1Wins": "0",
       "Team2Wins": "0",
       "GameScores": [
         {
           "Team1Score": "1",
-          "Team2Score": "2"
+          "Team2Score": "3"
         }
       ],
       "Team1Logo": "https://winline.ru/api/cls/event/1/12398951",
