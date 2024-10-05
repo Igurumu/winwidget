@@ -1,5 +1,39 @@
 [
   {
+    "IsOnline": true,
+    "Team1Name": "HANWHA LIFE",
+    "Team2Name": "GEN.G ESPORTS",
+    "Team1WinOdds": "2.70",
+    "Team2WinOdds": "1.35",
+    "Team1MapWinOdds": "2.70",
+    "Team2MapWinOdds": "1.35",
+    "Team1MapKillTotalOdds": "1.90",
+    "Team2MapKillTotalOdds": "1.74",
+    "TotalMapKillOdds": "25.5",
+    "ActiveGameInfo": {
+      "MapNumber": "3 \u043A\u0430\u0440\u0442\u0430 00-00",
+      "BestOf": "Best of 3",
+      "Team1Wins": "1",
+      "Team2Wins": "1",
+      "GameScores": [
+        {
+          "Team1Score": "0",
+          "Team2Score": "0"
+        },
+        {
+          "Team1Score": "8",
+          "Team2Score": "20"
+        },
+        {
+          "Team1Score": "12",
+          "Team2Score": "5"
+        }
+      ],
+      "Team1Logo": "https://winline.ru/api/cls/event/1/12398951",
+      "Team2Logo": "https://winline.ru/api/cls/event/2/12398951"
+    }
+  },
+  {
     "IsOnline": false,
     "Team1Name": "TOP",
     "Team2Name": "FNATIC",
