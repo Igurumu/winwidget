@@ -7,17 +7,17 @@
     "Team2WinOdds": "1.65",
     "Team1MapWinOdds": "1.60",
     "Team2MapWinOdds": "2.15",
-    "Team1MapKillTotalOdds": "1.83",
-    "Team2MapKillTotalOdds": "1.81",
+    "Team1MapKillTotalOdds": "1.81",
+    "Team2MapKillTotalOdds": "1.82",
     "TotalMapKillOdds": "24.5",
     "ActiveGameInfo": {
-      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 06:45",
+      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 09:03",
       "BestOf": "Best of 3",
       "Team1Wins": "0",
       "Team2Wins": "0",
       "GameScores": [
         {
-          "Team1Score": "0",
+          "Team1Score": "1",
           "Team2Score": "0"
         }
       ],
