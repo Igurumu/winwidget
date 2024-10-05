@@ -17,12 +17,12 @@
       "Team2Wins": "1",
       "GameScores": [
         {
-          "Team1Score": "3",
-          "Team2Score": "10"
+          "Team1Score": "0",
+          "Team2Score": "0"
         },
         {
-          "Team1Score": "8",
-          "Team2Score": "18"
+          "Team1Score": "0",
+          "Team2Score": "1"
         }
       ],
       "Team1Logo": "https://winline.ru/api/cls/event/1/12398952",
