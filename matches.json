@@ -1,23 +1,13 @@
 [
   {
-    "Team1": "DPLUS",
-    "Team2": "LNG ESPORTS",
-    "PeriodName": "2 карта",
-    "Total": "N/A",
-    "OddsTeam1": "9.73",
-    "OddsTeam2": "-",
-    "OddsTeam1Second": "N/A",
-    "OddsTeam2Second": "N/A"
-  },
-  {
     "Team1": "HANWHA LIFE",
     "Team2": "GEN.G ESPORTS",
     "PeriodName": "1 карта",
-    "Total": "25.5",
-    "OddsTeam1": "2.45",
-    "OddsTeam2": "1.49",
-    "OddsTeam1Second": "1.94",
-    "OddsTeam2Second": "1.77"
+    "Total": "N/A",
+    "OddsTeam1": "2.70",
+    "OddsTeam2": "1.35",
+    "OddsTeam1Second": "N/A",
+    "OddsTeam2Second": "N/A"
   },
   {
     "Team1": "TOP",
@@ -34,8 +24,8 @@
     "Team2": "T1",
     "PeriodName": "1 карта",
     "Total": "27.5",
-    "OddsTeam1": "1.47",
-    "OddsTeam2": "2.50",
+    "OddsTeam1": "1.45",
+    "OddsTeam2": "2.56",
     "OddsTeam1Second": "1.83",
     "OddsTeam2Second": "1.87"
   },
