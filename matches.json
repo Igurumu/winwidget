@@ -1,12 +1,82 @@
 [
   {
-    "Team1": "PSG TALON",
-    "Team2": "MAD LIONS",
+    "Team1": "DPLUS",
+    "Team2": "LNG ESPORTS",
     "PeriodName": null,
-    "Total": "N/A",
-    "OddsTeam1": "1.53",
-    "OddsTeam2": "2.27",
-    "OddsTeam1Second": "N/A",
-    "OddsTeam2Second": "N/A"
+    "Total": "27.5",
+    "OddsTeam1": "2.29",
+    "OddsTeam2": "1.55",
+    "OddsTeam1Second": "1.79",
+    "OddsTeam2Second": "1.92"
+  },
+  {
+    "Team1": "HANWHA LIFE",
+    "Team2": "GEN.G ESPORTS",
+    "PeriodName": null,
+    "Total": "25.5",
+    "OddsTeam1": "2.45",
+    "OddsTeam2": "1.49",
+    "OddsTeam1Second": "1.81",
+    "OddsTeam2Second": "1.89"
+  },
+  {
+    "Team1": "TOP",
+    "Team2": "FNATIC",
+    "PeriodName": null,
+    "Total": "26.5",
+    "OddsTeam1": "1.23",
+    "OddsTeam2": "3.70",
+    "OddsTeam1Second": "1.87",
+    "OddsTeam2Second": "1.83"
+  },
+  {
+    "Team1": "BILIBILI GAMING",
+    "Team2": "T1",
+    "PeriodName": null,
+    "Total": "27.5",
+    "OddsTeam1": "1.47",
+    "OddsTeam2": "2.50",
+    "OddsTeam1Second": "1.83",
+    "OddsTeam2Second": "1.87"
+  },
+  {
+    "Team1": "PSG TALON",
+    "Team2": "FLYQUEST",
+    "PeriodName": null,
+    "Total": "26.5",
+    "OddsTeam1": "1.89",
+    "OddsTeam2": "1.82",
+    "OddsTeam1Second": "1.88",
+    "OddsTeam2Second": "1.83"
+  },
+  {
+    "Team1": "TEAM WEIBO",
+    "Team2": "G2 ESPORTS",
+    "PeriodName": null,
+    "Total": "29.5",
+    "OddsTeam1": "1.72",
+    "OddsTeam2": "2.00",
+    "OddsTeam1Second": "1.82",
+    "OddsTeam2Second": "1.88"
+  },
+  {
+    "Team1": "MAD LIONS",
+    "Team2": "GAM ESPORTS",
+    "PeriodName": null,
+    "Total": "28.5",
+    "OddsTeam1": "1.38",
+    "OddsTeam2": "2.82",
+    "OddsTeam1Second": "1.79",
+    "OddsTeam2Second": "1.92"
+  },
+  {
+    "Team1": "PAIN GAMING",
+    "Team2": "TEAM LIQUID",
+    "PeriodName": null,
+    "Total": "28.5",
+    "OddsTeam1": "4.83",
+    "OddsTeam2": "1.15",
+    "OddsTeam1Second": "1.87",
+    "OddsTeam2Second": "1.84"
   }
 ]
