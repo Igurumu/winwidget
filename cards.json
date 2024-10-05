@@ -1,35 +1,5 @@
 [
   {
-    "IsOnline": true,
-    "Team1Name": "DPLUS",
-    "Team2Name": "LNG ESPORTS",
-    "Team1WinOdds": "9.73",
-    "Team2WinOdds": "N/A",
-    "Team1MapWinOdds": "7.00",
-    "Team2MapWinOdds": "N/A",
-    "Team1MapKillTotalOdds": null,
-    "Team2MapKillTotalOdds": null,
-    "TotalMapKillOdds": null,
-    "ActiveGameInfo": {
-      "MapNumber": "2 \u043A\u0430\u0440\u0442\u0430 36:51",
-      "BestOf": "Best of 3",
-      "Team1Wins": "0",
-      "Team2Wins": "1",
-      "GameScores": [
-        {
-          "Team1Score": "11",
-          "Team2Score": "17"
-        },
-        {
-          "Team1Score": "8",
-          "Team2Score": "18"
-        }
-      ],
-      "Team1Logo": "https://winline.ru/api/cls/event/1/12398952",
-      "Team2Logo": "https://winline.ru/api/cls/event/2/12398952"
-    }
-  },
-  {
     "IsOnline": false,
     "Team1Name": "HANWHA LIFE",
     "Team2Name": "GEN.G ESPORTS",
