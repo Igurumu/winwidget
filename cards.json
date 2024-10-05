@@ -1,0 +1,58 @@
+[
+  {
+    "IsOnline": true,
+    "Team1Name": "NOUNS",
+    "Team2Name": "INFINITY",
+    "Team1WinOdds": "1.07",
+    "Team2WinOdds": "8.50",
+    "Team1MapWinOdds": "1.37",
+    "Team2MapWinOdds": "3.10",
+    "Team1MapKillTotalOdds": null,
+    "Team2MapKillTotalOdds": null,
+    "TotalMapKillOdds": null,
+    "ActiveGameInfo": {
+      "MapNumber": "Пер.",
+      "BestOf": "Best of 3",
+      "Team1Wins": "1",
+      "Team2Wins": "0",
+      "GameScores": [
+        {
+          "Team1Score": "1",
+          "Team2Score": "0"
+        }
+      ],
+      "Team1Logo": "https://winline.ru/api/cls/event/1/12398528",
+      "Team2Logo": "https://winline.ru/api/cls/event/2/12398528"
+    }
+  },
+  {
+    "IsOnline": true,
+    "Team1Name": "HEROIC",
+    "Team2Name": "AZURE RAY",
+    "Team1WinOdds": "N/A",
+    "Team2WinOdds": "19.0",
+    "Team1MapWinOdds": "1.02",
+    "Team2MapWinOdds": "14.0",
+    "Team1MapKillTotalOdds": null,
+    "Team2MapKillTotalOdds": null,
+    "TotalMapKillOdds": null,
+    "ActiveGameInfo": {
+      "MapNumber": "2 карта",
+      "BestOf": "Best of 3",
+      "Team1Wins": "1",
+      "Team2Wins": "0",
+      "GameScores": [
+        {
+          "Team1Score": "0",
+          "Team2Score": "0"
+        },
+        {
+          "Team1Score": "1",
+          "Team2Score": "0"
+        }
+      ],
+      "Team1Logo": "https://winline.ru/api/cls/event/1/12398525",
+      "Team2Logo": "https://winline.ru/api/cls/event/2/12398525"
+    }
+  }
+]
