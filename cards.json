@@ -11,14 +11,14 @@
     "Team2MapKillTotalOdds": null,
     "TotalMapKillOdds": null,
     "ActiveGameInfo": {
-      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 29:46",
+      "MapNumber": "1 \u043A\u0430\u0440\u0442\u0430 29:52",
       "BestOf": "Best of 3",
       "Team1Wins": "0",
       "Team2Wins": "0",
       "GameScores": [
         {
           "Team1Score": "12",
-          "Team2Score": "4"
+          "Team2Score": "5"
         }
       ],
       "Team1Logo": "https://winline.ru/api/cls/event/1/12398951",
