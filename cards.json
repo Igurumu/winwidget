@@ -11,11 +11,15 @@
     "Team2MapKillTotalOdds": "1.79",
     "TotalMapKillOdds": "25.5",
     "ActiveGameInfo": {
-      "MapNumber": "\u041F\u0435\u0440.",
+      "MapNumber": "2 \u043A\u0430\u0440\u0442\u0430",
       "BestOf": "Best of 3",
       "Team1Wins": "1",
       "Team2Wins": "0",
       "GameScores": [
+        {
+          "Team1Score": "0",
+          "Team2Score": "0"
+        },
         {
           "Team1Score": "12",
           "Team2Score": "5"
